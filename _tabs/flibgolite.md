@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: FLibGoLite
-icon: fas fa-book
+icon: fa fa-book
 order: 2
 ---
 
