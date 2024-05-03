@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 title: Pixyne
-icon: fas fa-file-image-o
+icon: fa fa-file-image-o
 order: 3
 ---
 
