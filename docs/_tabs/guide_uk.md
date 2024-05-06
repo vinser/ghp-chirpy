@@ -11,7 +11,7 @@ __FLibGoLite__ — простий у використанні сервер OPDS 
 
 __FLibGoLite__ - це багатоплатформний легкий OPDS-сервер з індексом пошуку книг у базі даних SQLite.
 
-Поточна версія __FLibGoLite__ підтримує формати публікацій [EPUB](https://en.wikipedia.org/wiki/EPUB) та [FB2 (окремі файли та zip-архіви)](./pkg/fb2/LICENSE).
+Поточна версія __FLibGoLite__ підтримує формати публікацій [EPUB](https://en.wikipedia.org/wiki/EPUB) та [FB2 (окремі файли та zip-архіви)](https://github.com/gribuser/fb2).
 
 Каталог OPDS __FLibGoLite__ протестований та працює з мобільними програмами для читання книг PocketBook Reader, FBReader, Librera Reader, Cool Reader, а також з настільними додатками Foliate та Thorium Reader. Ви можете використовувати будь-які інші програми або пристрої e-ink, які можуть читати перелічені формати книг і працювати з каталогами OPDS.
 
