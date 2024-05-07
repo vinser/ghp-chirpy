@@ -1,9 +1,12 @@
 ---
-layout: post
-title: Advanced User Guide
-icon: fa fa-file-text
-order: 3
+title: Advanced Usage
+date: 2024-05-07 00:00:00 +0500  # YYYY-MM-DD HH:MM:SS +/-TTTT
+pin: true
+# image: /assets/img/OPDS.png
+# categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+# tags: [notag]     # TAG names should always be lowercase
 ---
+
 
 ## Advanced usage
 From command line run `./flibgolite -help` to see run options
@@ -216,6 +219,4 @@ For crosscompile install GNU `make` and run it with Makefile
 
 -------------------------------
 ___*Suggestions, bug reports and comments are welcome [here](https://github.com/vinser/flibgolite/issues)*___
-
-   
 
