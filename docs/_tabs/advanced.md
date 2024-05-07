@@ -2,7 +2,8 @@
 title: Advanced User Guide
 icon: fa fa-file-text
 order: 3
-toc: true
+panel_includes:
+  - toc
 ---
 
 ## Advanced usage
