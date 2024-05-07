@@ -200,7 +200,7 @@ LEVEL: "W"
 
 ### _8. Run in Docker container_
 
-As an option you may run program in [docker container](/_tabs/docker.md)
+As an option you may run program in [docker container]({% link_tabs/docker.md %}).
 
 ### _9. Build from sources_
 
