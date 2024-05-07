@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Advanced User Guide
 icon: fa fa-file-text
 order: 3
